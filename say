@@ -1,0 +1,1 @@
+osascript -e 'repeat' -e 'delay (6)' -e 'say "meme"' -e 'end repeat'
